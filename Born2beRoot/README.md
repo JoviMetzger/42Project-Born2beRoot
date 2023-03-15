@@ -3,19 +3,19 @@
 
 ## Table of Contents
 
-- [Basic Infomation](#basic_infomation)
-- [Step by Step](#step_by_step)
-	- [1. Download](#download)
-	- [2. Open VisualBox](#open_visualBox)
-	- [3. Installing Sudo](#installing_sudo)
-	- [4. Installing and Configuring SSH](#SSH)
-	- [5. Changing Default Port](#port)
-	- [6. Installing and Configuring UFW](#UFW)
-	- [7. Setting Up a Strong Password Policy](#password)
-	- [8. Create Group & Add User](#group&user)
-	- [9. Configuring Sudoers Group](#sudo)
-	- [10. Monitoring Script](#monitoring)
-	- [11. Take a Snapshot](#snapshot)
+- [Basic Infomation](#Basic_Infomation)
+- [Step by Step](#Step_by_Step)
+	- [1. Download](#Download)
+	- [2. Open VisualBox](#Open VisualBox)
+	- [3. Installing Sudo](#Installing Sudo)
+	- [4. Installing and Configuring SSH](#Installing and Configuring SSH)
+	- [5. Changing Default Port](#Changing Default Port)
+	- [6. Installing and Configuring UFW](#Installing and Configuring UFW)
+	- [7. Setting Up a Strong Password Policy](#Setting Up a strong Password Policy)
+	- [8. Create Group & Add User](#Create Group & Add User)
+	- [9. Configuring Sudoers Group](#Configuring Sudoers Group)
+	- [10. Monitoring Script](#Monitoring Script)
+	- [11. Take a Snapshot](#Take a Snapshot)
 - [Extra Commands](#extra)
 
 ## Basic Information
