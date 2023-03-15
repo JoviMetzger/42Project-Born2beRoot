@@ -3,22 +3,22 @@
 
 ## Table of Contents
 
-- [Basic Information](#BasicInformation)
-- [Step By Step](#Step_By_Step)
-	- [1. Download](#DownloadDebianorRocky)
-	- [2. Open VisualBox](#OpenVisualBox)
-	- [3. Installing Sudo](#InstallingSudo)
-	- [4. Installing and Configuring SSH](#InstallingandConfiguringSSH)
-	- [5. Changing Default Port](#ChangingDefaultPort(22)to4242)
-	- [6. Installing and Configuring UFW](#InstallingandConfiguringUFW(UncomplicatedFirewall))
-	- [7. Setting Up a Strong Password Policy](#SettingUpaStrongPasswordPolicy)
-	- [8. Create Group & Add User](#CreateGroup&AddUser)
-	- [9. Configuring Sudoers Group](#ConfiguringSudoersGroup)
-	- [10. Monitoring Script](#MonitoringScript)
-	- [11. Take a Snapshot](#TakeaSnapshot*(sothatyoursignaturedoesn'tchange)*)
-- [Extra Commands](#ExtraCommands)
+- [Basic Information](#Basic-Information)
+- [Step By Step](#Step-By-Step)
+	- [1. Download](#Download-Debian-or-Rocky-*(Debian-is-easier-to-install-&-since-it-is-recommended-for-new-users-and-small-or-personal-servers)*)
+	- [2. Open VisualBox](#Open-VisualBox)
+	- [3. Installing Sudo](#Installing-Sudo)
+	- [4. Installing and Configuring SSH](#Installing-and-Configuring-SSH)
+	- [5. Changing Default Port](#Changing-Default-Port(22)-to-4242)
+	- [6. Installing and Configuring UFW](#Installing-and-Configuring-UFW(Uncomplicated-Firewall))
+	- [7. Setting Up a Strong Password Policy](#Setting-Up-a-Strong-Password-Policy)
+	- [8. Create Group & Add User](#Create-Group-&-Add-User)
+	- [9. Configuring Sudoers Group](#Configuring-Sudoers-Group)
+	- [10. Monitoring Script](#Monitoring-Script)
+	- [11. Take a Snapshot](#Take-a-Snapshot-*(so-that-your-signature-doesn't-change)*)
+- [Extra Commands](#Extra-Commands)
 
-## BasicInformation
+## Basic Information
 - **Operating system:** The operating system is a lower-level software that manages computer hardware and provides basic functions, such as scheduling tasks. It allows users to interact with the computer without having to know how to speak a computer language. Examples of operating systems include Microsoft Windows, macOS, and Android.
 
 - **VirtualBox:** VirtualBox is a software-based computing resource that runs programs and deploys apps. It allows one or more virtual "guest" machines to run on a physical "host" machine. Each virtual machine runs its own operating system and functions independently of other virtual machines, even when running on the same host. Essentially, it's like having a mini computer inside your computer, and any mistakes made within VirtualBox won't affect your main system.
@@ -416,7 +416,7 @@
 			```
 		- HINT: it takes a while to load, you know it worked if a line with bunch of numbers appears.
 	
-## ExtraCommands
+## Extra Commands
 - #### 1. Change Hostname
 	- Check current hostname
 		```bash
