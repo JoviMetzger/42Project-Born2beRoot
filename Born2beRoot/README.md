@@ -3,20 +3,20 @@
 
 ## Table of Contents
 
-- [Basic Information](##BasicInformation)
-- [Step By Step](##StepByStep)
-	- [1. Download](###DownloadDebianorRocky)
-	- [2. Open VisualBox](###OpenVisualBox)
-	- [3. Installing Sudo](###InstallingSudo)
-	- [4. Installing and Configuring SSH](###InstallingandConfiguringSSH)
-	- [5. Changing Default Port](###ChangingDefaultPort(22)to4242)
-	- [6. Installing and Configuring UFW](###InstallingandConfiguringUFW(UncomplicatedFirewall))
-	- [7. Setting Up a Strong Password Policy](###SettingUpaStrongPasswordPolicy)
-	- [8. Create Group & Add User](###CreateGroup&AddUser)
-	- [9. Configuring Sudoers Group](###ConfiguringSudoersGroup)
-	- [10. Monitoring Script](###MonitoringScript)
-	- [11. Take a Snapshot](###TakeaSnapshot*(sothatyoursignaturedoesn'tchange)*)
-- [Extra Commands](##ExtraCommands)
+- [Basic Information](#Basic_Information)
+- [Step By Step](#Step_By_Step)
+	- [1. Download](#DownloadDebianorRocky)
+	- [2. Open VisualBox](#OpenVisualBox)
+	- [3. Installing Sudo](#InstallingSudo)
+	- [4. Installing and Configuring SSH](#InstallingandConfiguringSSH)
+	- [5. Changing Default Port](#ChangingDefaultPort(22)to4242)
+	- [6. Installing and Configuring UFW](#InstallingandConfiguringUFW(UncomplicatedFirewall))
+	- [7. Setting Up a Strong Password Policy](#SettingUpaStrongPasswordPolicy)
+	- [8. Create Group & Add User](#CreateGroup&AddUser)
+	- [9. Configuring Sudoers Group](#ConfiguringSudoersGroup)
+	- [10. Monitoring Script](#MonitoringScript)
+	- [11. Take a Snapshot](#TakeaSnapshot*(sothatyoursignaturedoesn'tchange)*)
+- [Extra Commands](#Extra_Commands)
 
 ## Basic Information
 - **Operating system:** The operating system is a lower-level software that manages computer hardware and provides basic functions, such as scheduling tasks. It allows users to interact with the computer without having to know how to speak a computer language. Examples of operating systems include Microsoft Windows, macOS, and Android.
