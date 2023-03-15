@@ -10,12 +10,12 @@
 	- [3. Installing Sudo](#3-Installing-Sudo)
 	- [4. Installing and Configuring SSH](#4-Installing-and-Configuring-SSH)
 	- [5. Changing Default Port](#5-Changing-Default-Port(22)-to-4242)
-	- [6. Installing and Configuring UFW](#6-Installing-and-Configuring-UFW(Uncomplicated-Firewall))
+	- [6. Installing and Configuring UFW](#6-Installing-and-Configuring-UFWUncomplicated-Firewall)
 	- [7. Setting Up a Strong Password Policy](#7-Setting-Up-a-Strong-Password-Policy)
 	- [8. Create Group & Add User](#8-Create-Group-&-Add-User)
 	- [9. Configuring Sudoers Group](#9-Configuring-Sudoers-Group)
 	- [10. Monitoring Script](#10-Monitoring-Script)
-	- [11. Take a Snapshot](#11-Take-a-Snapshot-so-that-your-signature-doesn't-change)
+	- [11. Take a Snapshot](#11-Take-a-Snapshot-so-that-your-signature-doesnt-change)
 - [Extra Commands](#Extra-Commands)
 
 ## Basic Information
