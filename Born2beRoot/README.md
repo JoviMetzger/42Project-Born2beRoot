@@ -5,7 +5,7 @@
 
 - [Basic Information](#Basic-Information)
 - [Step By Step](#Step-By-Step)
-	- [1. Download](#1-Download-Debian-or-Rocky-(Debian-is-easier-to-install-&-since-it-is-recommended-for-new-users-and-small-or-personal-servers))
+	- [1. Download](#1-Download-Debian-or-Rocky-Debian-is-easier-to-install-&-since-it-is-recommended-for-new-users-and-small-or-personal-servers)
 	- [2. Open VisualBox](#2-Open-VisualBox)
 	- [3. Installing Sudo](#3-Installing-Sudo)
 	- [4. Installing and Configuring SSH](#4-Installing-and-Configuring-SSH)
@@ -15,7 +15,7 @@
 	- [8. Create Group & Add User](#8-Create-Group-&-Add-User)
 	- [9. Configuring Sudoers Group](#9-Configuring-Sudoers-Group)
 	- [10. Monitoring Script](#10-Monitoring-Script)
-	- [11. Take a Snapshot](#11-Take-a-Snapshot-(so-that-your-signature-doesn't-change))
+	- [11. Take a Snapshot](#11-Take-a-Snapshot-so-that-your-signature-doesn't-change)
 - [Extra Commands](#Extra-Commands)
 
 ## Basic Information
