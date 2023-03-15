@@ -3,54 +3,23 @@
 
 ## Table of Contents
 
-- [Basic Infomation](#Basic_Infomation)
-- [Step by Step](#Step_by_Step)
-	- [1. Download](#Download)
-	- [2. Open VisualBox](#Open_VisualBox)
-	- [3. Installing Sudo](#Installing_Sudo)
-	- [4. Installing and Configuring SSH](#Installing_and_Configuring_SSH)
-	- [5. Changing Default Port](#Changing_Default_Port)
-	- [6. Installing and Configuring UFW](#Installing_and_Configuring_UFW)
-	- [7. Setting Up a Strong Password Policy](#Setting_Up_a_Strong_Password_Policy)
-	- [8. Create Group & Add User](#Create_Group_&_Add_User)
-	- [9. Configuring Sudoers Group](#Configuring_Sudoers_Group)
-	- [10. Monitoring Script](#Monitoring_Script)
-	- [11. Take a Snapshot](#Take_a_Snapshot)
-- [Extra Commands](#Extra_Commands)
+- [Basic Information](#Basic Information)
+- [Step By Step](#Step By Step)
+	- [1. Download](#Download Debian or Rocky)
+	- [2. Open VisualBox](#Open VisualBox)
+	- [3. Installing Sudo](#Installing Sudo)
+	- [4. Installing and Configuring SSH](#Installing and Configuring SSH)
+	- [5. Changing Default Port](#Changing Default Port(22) to 4242)
+	- [6. Installing and Configuring UFW](#Installing and Configuring UFW (Uncomplicated Firewall))
+	- [7. Setting Up a Strong Password Policy](#Setting Up a Strong Password Policy)
+	- [8. Create Group & Add User](#Create Group & Add User)
+	- [9. Configuring Sudoers Group](#Configuring Sudoers Group)
+	- [10. Monitoring Script](#Monitoring Script)
+	- [11. Take a Snapshot](#Take a Snapshot *(so that your signature doesn't change)*)
+- [Extra Commands](#Extra Commands)
 
 ## Basic Information
 - **Operating system:** The operating system is a lower-level software that manages computer hardware and provides basic functions, such as scheduling tasks. It allows users to interact with the computer without having to know how to speak a computer language. Examples of operating systems include Microsoft Windows, macOS, and Android.
-
-# Project Name
-
-Brief description of what this project does.
-
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Installation
-
-1. Clone the repository to your local machine using `git clone <repository-url>`
-2. Navigate to the project directory using `cd <project-directory>`
-3. Install dependencies using `npm install`
-
-## Usage
-
-Instructions for how to use this project, including examples and screenshots if applicable.
-
-## Contributing
-
-1. Fork the repository to your GitHub account
-2. Create a new branch using `git checkout -b <branch-name>`
-3. Make changes and commit them using `git commit -m "<commit-message>"`
-4. Push changes to your forked repository using `git push origin <branch-name>`
-5. Submit a pull request to the original repository
-
-## License
 
 - **VirtualBox:** VirtualBox is a software-based computing resource that runs programs and deploys apps. It allows one or more virtual "guest" machines to run on a physical "host" machine. Each virtual machine runs its own operating system and functions independently of other virtual machines, even when running on the same host. Essentially, it's like having a mini computer inside your computer, and any mistakes made within VirtualBox won't affect your main system.
 
