@@ -3,7 +3,7 @@
 
 ## Table of Contents
 
-- [Basic Information](#Basic_Information)
+- [Basic Information](#BasicInformation)
 - [Step By Step](#Step_By_Step)
 	- [1. Download](#DownloadDebianorRocky)
 	- [2. Open VisualBox](#OpenVisualBox)
@@ -16,9 +16,9 @@
 	- [9. Configuring Sudoers Group](#ConfiguringSudoersGroup)
 	- [10. Monitoring Script](#MonitoringScript)
 	- [11. Take a Snapshot](#TakeaSnapshot*(sothatyoursignaturedoesn'tchange)*)
-- [Extra Commands](#Extra_Commands)
+- [Extra Commands](#ExtraCommands)
 
-## Basic Information
+## BasicInformation
 - **Operating system:** The operating system is a lower-level software that manages computer hardware and provides basic functions, such as scheduling tasks. It allows users to interact with the computer without having to know how to speak a computer language. Examples of operating systems include Microsoft Windows, macOS, and Android.
 
 - **VirtualBox:** VirtualBox is a software-based computing resource that runs programs and deploys apps. It allows one or more virtual "guest" machines to run on a physical "host" machine. Each virtual machine runs its own operating system and functions independently of other virtual machines, even when running on the same host. Essentially, it's like having a mini computer inside your computer, and any mistakes made within VirtualBox won't affect your main system.
@@ -416,7 +416,7 @@
 			```
 		- HINT: it takes a while to load, you know it worked if a line with bunch of numbers appears.
 	
-## Extra Commands
+## ExtraCommands
 - #### 1. Change Hostname
 	- Check current hostname
 		```bash
