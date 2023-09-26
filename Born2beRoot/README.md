@@ -454,7 +454,7 @@
 	- ***free:** RAM information*
 	- ***df:** disk information*
 	- ***top -bn1:** process information*
-	- ***who:** boot and connected user information*
+	- ***who:** root and connected user information*
 	- ***lsblk:** partition and LVM information*
 	- ***/proc/net/sockstat:** TCP information*
 	- ***hostname:** hostname and IP information*
