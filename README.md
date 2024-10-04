@@ -9,7 +9,3 @@ In this project, you will create your first virtual machine using VirtualBox und
 ## Installation
 
 To complete this project, you need to create a signature.txt file. Paste the signature of your machine's virtual disk into the signature.txt file.
-
-## Subject
-
-You can find the subject for this project [here](https://cdn.intra.42.fr/pdf/pdf/68785/en.subject.pdf).
